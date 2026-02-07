@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Sarve!
 
-<!--
-**askuovye/askuovye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu canto no GitHub. 
 
-Here are some ideas to get you started:
+## 🛠️ Stack & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const skills = {
+    frontend: ['HTML', 'CSS', 'Flutter'],
+    backend: ['Python', 'APIs', 'Java'],
+    ai: ['Langchain', 'GroqAPI', 'Chatbots'],
+    learning: ['sempre explorando algo novo']
+};
+```
+
+## 🚀 Projetos em Destaque
+
+### 🤖 [ChatbotLangchain](https://github.com/askuovye/ChatbotLangchain)
+Python chatbot usando Langchain e GroqAPI
+
+### ♻️ [ecolink](https://github.com/askuovye/EcoLink)
+Laravel/API sistema de pontos de coleta de lixo mais proximos
+
+### ♻️ [ecolinkflutter](https://github.com/askuovye/ecolinkflutter)
+Flutter aplicativo para pontos de coleta de lixo
+
+## 📊 GitHub Stats
+
+![askuovye's GitHub stats](https://github-readme-stats.vercel.app/api?username=askuovye&show_icons=true&theme=radical&hide_border=true)
+
+## 🎯 Atualmente
+
+- 🔭 Explorando o universo de IA e chatbots
+- 🌱 Aprimorando skills em Laravel, Flutter e desenvolvimento mobile
+- 💡 Sempre em busca do próximo desafio
+
+---
+
+<div align="center">
+
+**"A melhor forma de prever o futuro é inventá-lo"** - Alan Kay
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=askuovye.askuovye)
+
+</div>
