@@ -26,7 +26,11 @@ Flutter aplicativo para pontos de coleta de lixo
 
 ## 📊 GitHub Stats
 
-![askuovye's GitHub stats](https://github-readme-stats.vercel.app/api?username=askuovye&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=askuovye&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askuovye&layout=compact&theme=radical&hide_border=true)
 
 ## 🎯 Atualmente
 
