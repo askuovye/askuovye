@@ -1,188 +1,203 @@
-<p align="center">
-  <a href="https://joaofortes.dev">
-    <img src="https://raw.githubusercontent.com/askuovye/askuovye/main/assets/og-image.jpg" alt="JOAO.DEV" width="100%">
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">ASKUOVYE // JOÃO FORTES</h1>
-<p align="center"><strong>FULL STACK DEVELOPER · SOFTWARE ENGINEERING · BRAZIL</strong></p>
-
-<p align="center">
-  <a href="https://joaofortes.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-JOAO.DEV-0A84FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
-  </a>
-  <a href="https://github.com/askuovye">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE-0A84FF?style=for-the-badge&labelColor=0d1117" alt="Status Online">
-  </a>
-  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0A84FF?style=for-the-badge&labelColor=0d1117" alt="Brazil">
-  <img src="https://img.shields.io/badge/I18N-PT--BR%20%2F%20EN-0A84FF?style=for-the-badge&labelColor=0d1117" alt="I18N">
-</p>
-
-<p align="center">
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                            ┃
-┃                   ASKUOVYE PROUDLY PRESENTS                ┃
-┃                                                            ┃
-┃                        JOÃO FORTES                         ┃
-┃                                                            ┃
-┃                  FULL STACK DEVELOPER                      ┃
-┃                                                            ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+        ✦              †              ✦
+     ╭──────────────────────────────────╮
+     │                                  │
+     │   ▄▀█ █▀ █▄▀ █ █ █▀█ █ █ █▄█ █▀▀ │
+     │   █▀█ ▄█ █ █ █▄█ █▄█ ▀▄▀  █  ██▄ │
+     │                                  │
+     ╰──────────────────────────────────╯
+         ASKUOVYE DEMO DIVISION
+             PROUDLY PRESENTS
 </pre>
-</p>
 
-<p align="center">
-  <strong>[ <a href="https://joaofortes.dev">JOAO.DEV</a> ]</strong>
-</p>
+### [ JOAO.DEV ](https://joaofortes.dev)
 
-<p align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0066FF?style=flat-square&labelColor=050505" alt="Status Online">
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0066FF?style=flat-square&labelColor=050505" alt="Portfolio Live">
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-0066FF?style=flat-square&labelColor=050505" alt="Brazil">
+<img src="https://img.shields.io/badge/I18N-PT--BR%20%2F%20EN-0066FF?style=flat-square&labelColor=050505" alt="PT-BR / EN">
+
 <pre>
-╔══════════════════════════════════════════════════════════════╗
-║ RELEASE INFO                                                ║
-╠══════════════════════════════════════════════════════════════╣
-║ Type ...... : GitHub Profile                                ║
-║ Handle .... : askuovye                                      ║
-║ Code ...... : João Fortes                                   ║
-║ Role ...... : Full Stack Developer                          ║
-║ Focus ..... : Web / Systems / Creative Interfaces           ║
-║ Stack ..... : Vue / TypeScript / Laravel                    ║
-║ System .... : Linux                                         ║
-║ Location .. : Brazil                                        ║
-║ Status .... : Available                                     ║
-║ Web ....... : joaofortes.dev                                ║
-╚══════════════════════════════════════════════════════════════╝
+╭────────────────────────────────────────────────────────────╮
+│╲                                                          ╱│
+│ ╲                    [ GITHUB PROFILE ]                   ╱ │
+│  ╲                                                      ╱  │
+│   ╰╮                                                  ╭╯   │
+│    │  Type ...... : Personal Zone                     │    │
+│    │  Code ...... : askuovye                          │    │
+│    │  Alias ..... : João Fortes                       │    │
+│    │  Role ...... : Full Stack Developer              │    │
+│    │  System .... : Linux                             │    │
+│    │  Focus ..... : Code, Art & Experiments           │    │
+│    │  Since ..... : 2026                              │    │
+│    │  Location .. : Brazil                            │    │
+│    │  Status .... : Online                            │    │
+│   ╭╯                                                  ╰╮   │
+│  ╱                                                      ╲  │
+│ ╱                                                        ╲ │
+│╱                                                          ╲│
+╰────────────────────────────────────────────────────────────╯
 </pre>
-</p>
 
----
+</div>
+
+<div align="center">
+
+<pre>
+                ╭───────────✦───────────╮
+                │                       │
+                │   SOMEWHERE BETWEEN   │
+                │     CODE & CHAOS      │
+                │  WE BUILD OUR OWN     │
+                │       REALITY         │
+                │                       │
+                ╰───────────✦───────────╯
+</pre>
+
+</div>
+
+<div align="center">
 
 ## // WHO_AM_I
 
 Full stack developer and Software Engineering student from Brazil.
 
-I build projects that connect **code, interface and visual experimentation** — from practical web applications to more authorial experiences inspired by retro software, motion and digital aesthetics.
+I like building things where **software engineering, interface design and visual experimentation** overlap — from practical web applications to weird little systems, retro interfaces and creative code.
 
-I like working across the stack, but I care a lot about the point where **engineering, usability and visual identity** meet.
+</div>
 
-<p align="center">
+<div align="center">
+
 <pre>
-CURRENTLY
-──────────────────────────────────────────────────────────────
-
-BUILDING .... personal projects
-WORKING ..... full stack / freelance
-LEARNING .... software engineering
-INTERESTS ... web · systems · creative coding
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│                       [ CURRENTLY ]                        │
+│                                                            │
+│  BUILDING .... personal projects / experiments            │
+│  WORKING ..... full stack / freelance                     │
+│  LEARNING .... software engineering                       │
+│  INTERESTS ... web / systems / linux / creative coding    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 </pre>
-</p>
 
----
+</div>
+
+<div align="center">
 
 ## // LOADOUT
 
 ### FRONTEND
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white" />
-</p>
+
+<img src="https://img.shields.io/badge/Vue.js-0B0B0B?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+<img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Vite-0B0B0B?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+<img src="https://img.shields.io/badge/SCSS-0B0B0B?style=for-the-badge&logo=sass&logoColor=CC6699" alt="SCSS">
 
 ### BACKEND
-<p>
-  <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
-</p>
+
+<img src="https://img.shields.io/badge/PHP-0B0B0B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-0B0B0B?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
 
 ### DATABASE
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0B0B0B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
 
 ### TOOLS
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black" />
-</p>
 
----
+<img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/Flutter-0B0B0B?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter">
 
-## // RELEASES
+</div>
+
+<div align="center">
 
 <pre>
-[01] JOAO.DEV
-     type .... portfolio / personal release
-     stack ... Vue · TypeScript · Vite · SCSS
-     status .. live
-     link .... https://joaofortes.dev
-
-[02] ECOLINK
-     type .... disposal point mapping platform
-     stack ... Laravel · Flutter · MySQL
-     status .. active project
-     link .... https://github.com/askuovye
-
-[03] INSTACLONE
-     type .... social interface study
-     stack ... Vue 3 · Vite · Pinia · SCSS
-     status .. study / concept
-     link .... https://github.com/askuovye
-
-[04] VESTOCK
-     type .... thrift management system
-     stack ... Laravel · Vue · MySQL
-     status .. academic project
-     link .... https://github.com/askuovye
+         ╭────────────╮          ╭────────────╮
+      ╭──╯            ╰──────────╯            ╰──╮
+      │                                            │
+      │                 [ RELEASES ]               │
+      │                                            │
+      │  [01] JOAO.DEV                            │
+      │       type .... personal portfolio        │
+      │       stack ... Vue / TS / Vite / SCSS    │
+      │       state ... LIVE                      │
+      │       web ..... joaofortes.dev            │
+      │                                            │
+      │  [02] ECOLINK                             │
+      │       type .... disposal mapping platform │
+      │       stack ... Laravel / PHP / MySQL     │
+      │       state ... project                   │
+      │                                            │
+      │  [03] ECOLINK MOBILE                      │
+      │       type .... mobile client             │
+      │       stack ... Flutter / Firebase        │
+      │       state ... project                   │
+      │                                            │
+      ╰──╮            ╭──────────╮            ╭──╯
+         ╰────────────╯          ╰────────────╯
 </pre>
 
----
+**[JOAO.DEV](https://joaofortes.dev)** ·
+**[PORTFOLIO SOURCE](https://github.com/askuovye/Portifolio)** ·
+**[ECOLINK](https://github.com/askuovye/EcoLink)** ·
+**[ECOLINK MOBILE](https://github.com/askuovye/ecolinkflutter)**
 
-## // GREETS
+</div>
 
-<p align="center">
+<div align="center">
+
 <pre>
-──────────────────────────────────────────────────────────────
-                     ASKUOVYE SENDS GREETS
-──────────────────────────────────────────────────────────────
-
-        VUE / LARAVEL / LINUX / OPEN SOURCE / WEB
-           CREATIVE CODING / INTERFACES / BUILDERS
-
-              SHARPENING THE CODE IN 2026
-──────────────────────────────────────────────────────────────
+     ╭╮                                              ╭╮
+   ╭─╯╰─╮              ASKUOVYE GREETS             ╭─╯╰─╮
+   │    │                                          │    │
+   │    │      OPEN SOURCE / LINUX / THE WEB      │    │
+   │    │     CREATIVE CODING / EXPERIMENTS       │    │
+   │    │       MUSIC / ANIME / GAMES / UI        │    │
+   │    │        AND EVERYONE WHO BUILDS          │    │
+   ╰─╮╭─╯                                          ╰─╮╭─╯
+     ╰╯                                              ╰╯
 </pre>
-</p>
 
----
+</div>
+
+<div align="center">
 
 ## // TRANSMISSION
 
-<p align="center">
-  <a href="https://joaofortes.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-JOAO.DEV-0A84FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
-  </a>
-  <a href="https://github.com/askuovye">
-    <img src="https://img.shields.io/badge/GITHUB-ASKUOVYE-0A84FF?style=for-the-badge&labelColor=0d1117" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/joaolopesfortes/">
-    <img src="https://img.shields.io/badge/LINKEDIN-JOÃO%20FORTES-0A84FF?style=for-the-badge&labelColor=0d1117" alt="LinkedIn">
-  </a>
-</p>
+<a href="https://joaofortes.dev">
+  <img src="https://img.shields.io/badge/JOAO.DEV-OPEN_PORTFOLIO-0066FF?style=for-the-badge&labelColor=050505" alt="Portfolio">
+</a>
+<a href="https://github.com/askuovye">
+  <img src="https://img.shields.io/badge/GITHUB-ASKUOVYE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/joaolopesfortes/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<p align="center">
 <pre>
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│                ASKUOVYE // JOAO.DEV                        │
-│                                                            │
-│                 DESIGN + CODE + CREATE                     │
-│                                                            │
-│                      BRAZIL · 2026                         │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+        ╭───────────────╮          ╭───────────────╮
+     ╭──╯               ╰──────────╯               ╰──╮
+     │                                                  │
+     │              SHARPENING THE MIND                 │
+     │               IN A DIGITAL WORLD                 │
+     │                                                  │
+     │                     2026                         │
+     │                                                  │
+     ╰──╮               ╭──────────╮               ╭──╯
+        ╰───────────────╯          ╰───────────────╯
+
+                    ╭──────────────╮
+                    │ ASKUOVYE.DEMO│
+                    ╰──────────────╯
+
+                 -- NO SYSTEM IS SAFE --
 </pre>
-</p>
+
+</div>
