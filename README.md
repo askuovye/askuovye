@@ -1,93 +1,71 @@
+<!--
+  ASKUOVYE PROFILE README
+  demoscene / cracktro / JOAO.DEV
+-->
+
 <div align="center">
 
-<pre>
-        ✦              †              ✦
-     ╭──────────────────────────────────╮
-     │                                  │
-     │   ▄▀█ █▀ █▄▀ █ █ █▀█ █ █ █▄█ █▀▀ │
-     │   █▀█ ▄█ █ █ █▄█ █▄█ ▀▄▀  █  ██▄ │
-     │                                  │
-     ╰──────────────────────────────────╯
-         ASKUOVYE DEMO DIVISION
-             PROUDLY PRESENTS
-</pre>
+# // ASKUOVYE
 
-### [ JOAO.DEV ](https://joaofortes.dev)
+**FULL STACK DEVELOPER · SOFTWARE ENGINEERING**
+
+[ **JOAO.DEV** ](https://joaofortes.dev)
+
+<br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-0066FF?style=flat-square&labelColor=050505" alt="Status Online">
 <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0066FF?style=flat-square&labelColor=050505" alt="Portfolio Live">
 <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0066FF?style=flat-square&labelColor=050505" alt="Brazil">
 <img src="https://img.shields.io/badge/I18N-PT--BR%20%2F%20EN-0066FF?style=flat-square&labelColor=050505" alt="PT-BR / EN">
 
-<pre>
-╭────────────────────────────────────────────────────────────╮
-│╲                                                          ╱│
-│ ╲                    [ GITHUB PROFILE ]                   ╱ │
-│  ╲                                                      ╱  │
-│   ╰╮                                                  ╭╯   │
-│    │  Type ...... : Personal Zone                     │    │
-│    │  Code ...... : askuovye                          │    │
-│    │  Alias ..... : João Fortes                       │    │
-│    │  Role ...... : Full Stack Developer              │    │
-│    │  System .... : Linux                             │    │
-│    │  Focus ..... : Code, Art & Experiments           │    │
-│    │  Since ..... : 2026                              │    │
-│    │  Location .. : Brazil                            │    │
-│    │  Status .... : Online                            │    │
-│   ╭╯                                                  ╰╮   │
-│  ╱                                                      ╲  │
-│ ╱                                                        ╲ │
-│╱                                                          ╲│
-╰────────────────────────────────────────────────────────────╯
-</pre>
-
 </div>
 
-<div align="center">
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                      ASKUOVYE PRESENTS                        ║
+║                                                              ║
+║                        JOÃO FORTES                            ║
+║                                                              ║
+║                   FULL STACK DEVELOPER                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-<pre>
-                ╭───────────✦───────────╮
-                │                       │
-                │   SOMEWHERE BETWEEN   │
-                │     CODE & CHAOS      │
-                │  WE BUILD OUR OWN     │
-                │       REALITY         │
-                │                       │
-                ╰───────────✦───────────╯
-</pre>
+                         [ JOAO.DEV ]
 
-</div>
+Type ...... : Developer Profile
+Code ...... : João Fortes
+Role ...... : Full Stack Developer
+Stack ..... : Vue / TypeScript / Laravel
+System .... : Linux
+Location .. : Brazil
+Status .... : ONLINE
+Web ....... : joaofortes.dev
+```
 
-<div align="center">
+---
 
 ## // WHO_AM_I
 
 Full stack developer and Software Engineering student from Brazil.
 
-I like building things where **software engineering, interface design and visual experimentation** overlap — from practical web applications to weird little systems, retro interfaces and creative code.
+I build applications from database to interface, but I am especially interested in the point where **code, visual identity and interaction design** meet. My projects tend to mix practical software engineering with experimental interfaces, retro software references and creative coding.
 
-</div>
+```text
+CURRENTLY
+──────────────────────────────────────────────────────────────
 
-<div align="center">
+BUILDING .... personal projects / weird interfaces
+WORKING ..... full stack / freelance
+LEARNING .... software engineering
+INTERESTS ... web · systems · linux · creative coding
+```
 
-<pre>
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│                       [ CURRENTLY ]                        │
-│                                                            │
-│  BUILDING .... personal projects / experiments            │
-│  WORKING ..... full stack / freelance                     │
-│  LEARNING .... software engineering                       │
-│  INTERESTS ... web / systems / linux / creative coding    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-</pre>
-
-</div>
-
-<div align="center">
+---
 
 ## // LOADOUT
+
+<div align="center">
 
 ### FRONTEND
 
@@ -107,7 +85,7 @@ I like building things where **software engineering, interface design and visual
 <img src="https://img.shields.io/badge/PostgreSQL-0B0B0B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
 
-### TOOLS
+### TOOLS / OTHER
 
 <img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
@@ -116,60 +94,68 @@ I like building things where **software engineering, interface design and visual
 
 </div>
 
-<div align="center">
+---
 
-<pre>
-         ╭────────────╮          ╭────────────╮
-      ╭──╯            ╰──────────╯            ╰──╮
-      │                                            │
-      │                 [ RELEASES ]               │
-      │                                            │
-      │  [01] JOAO.DEV                            │
-      │       type .... personal portfolio        │
-      │       stack ... Vue / TS / Vite / SCSS    │
-      │       state ... LIVE                      │
-      │       web ..... joaofortes.dev            │
-      │                                            │
-      │  [02] ECOLINK                             │
-      │       type .... disposal mapping platform │
-      │       stack ... Laravel / PHP / MySQL     │
-      │       state ... project                   │
-      │                                            │
-      │  [03] ECOLINK MOBILE                      │
-      │       type .... mobile client             │
-      │       stack ... Flutter / Firebase        │
-      │       state ... project                   │
-      │                                            │
-      ╰──╮            ╭──────────╮            ╭──╯
-         ╰────────────╯          ╰────────────╯
-</pre>
+## // RELEASES
 
-**[JOAO.DEV](https://joaofortes.dev)** ·
-**[PORTFOLIO SOURCE](https://github.com/askuovye/Portifolio)** ·
-**[ECOLINK](https://github.com/askuovye/EcoLink)** ·
-**[ECOLINK MOBILE](https://github.com/askuovye/ecolinkflutter)**
+```text
+╭─[ 01 ]───────────────────────────────────────────────────────╮
+│ JOAO.DEV                                                     │
+├──────────────────────────────────────────────────────────────┤
+│ type .... personal portfolio                                 │
+│ stack ... Vue · TypeScript · Vite · SCSS                     │
+│ state ... LIVE                                               │
+│ web ..... joaofortes.dev                                     │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-</div>
+**[OPEN WEBSITE](https://joaofortes.dev)** · **[SOURCE](https://github.com/askuovye/Portifolio)**
 
-<div align="center">
+```text
+╭─[ 02 ]───────────────────────────────────────────────────────╮
+│ ECOLINK                                                      │
+├──────────────────────────────────────────────────────────────┤
+│ type .... community waste-disposal platform                  │
+│ stack ... Laravel · PHP · MySQL                              │
+│ module .. REST API / web                                     │
+│ repo .... askuovye/EcoLink                                   │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-<pre>
-     ╭╮                                              ╭╮
-   ╭─╯╰─╮              ASKUOVYE GREETS             ╭─╯╰─╮
-   │    │                                          │    │
-   │    │      OPEN SOURCE / LINUX / THE WEB      │    │
-   │    │     CREATIVE CODING / EXPERIMENTS       │    │
-   │    │       MUSIC / ANIME / GAMES / UI        │    │
-   │    │        AND EVERYONE WHO BUILDS          │    │
-   ╰─╮╭─╯                                          ╰─╮╭─╯
-     ╰╯                                              ╰╯
-</pre>
+**[SOURCE](https://github.com/askuovye/EcoLink)**
 
-</div>
+```text
+╭─[ 03 ]───────────────────────────────────────────────────────╮
+│ ECOLINK MOBILE                                               │
+├──────────────────────────────────────────────────────────────┤
+│ type .... mobile client                                      │
+│ stack ... Flutter · Firebase · REST API                      │
+│ module .. geolocation / community mapping                    │
+│ repo .... askuovye/ecolinkflutter                            │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-<div align="center">
+**[SOURCE](https://github.com/askuovye/ecolinkflutter)**
+
+---
+
+## // GREETS
+
+```text
+                   ASKUOVYE SENDS GREETS TO
+
+              OPEN SOURCE  /  LINUX  /  THE WEB
+             VUE  /  LARAVEL  /  CREATIVE CODE
+                OLD SOFTWARE  /  NEW IDEAS
+
+            KEEP BUILDING THINGS THAT FEEL ALIVE
+```
+
+---
 
 ## // TRANSMISSION
+
+<div align="center">
 
 <a href="https://joaofortes.dev">
   <img src="https://img.shields.io/badge/JOAO.DEV-OPEN_PORTFOLIO-0066FF?style=for-the-badge&labelColor=050505" alt="Portfolio">
@@ -181,23 +167,19 @@ I like building things where **software engineering, interface design and visual
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<pre>
-        ╭───────────────╮          ╭───────────────╮
-     ╭──╯               ╰──────────╯               ╰──╮
-     │                                                  │
-     │              SHARPENING THE MIND                 │
-     │               IN A DIGITAL WORLD                 │
-     │                                                  │
-     │                     2026                         │
-     │                                                  │
-     ╰──╮               ╭──────────╮               ╭──╯
-        ╰───────────────╯          ╰───────────────╯
-
-                    ╭──────────────╮
-                    │ ASKUOVYE.DEMO│
-                    ╰──────────────╯
-
-                 -- NO SYSTEM IS SAFE --
-</pre>
-
 </div>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                SHARPENING THE CODE                           │
+│                                                              │
+│                 ASKUOVYE // JOAO.DEV                         │
+│                                                              │
+│               DESIGN + CODE + CREATE                         │
+│                     BRAZIL · 2026                            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+             --[ END OF TRANSMISSION / NO CARRIER ]--
+```
